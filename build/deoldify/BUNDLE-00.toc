@@ -1,0 +1,3 @@
+([('deoldify',
+   '/Users/george1/Desktop/deoldifier/dist/deoldify',
+   'EXECUTABLE')],)
